@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recordarusuario">Recorda usuari</string>
+    <string name="no_prestamos">No tens llibres prestats</string>
+    <string name="si">Si</string>
+    <string name="borrar">Esborrar</string>
+    <string name="auth_sucess">Carregant, esperi si us plau</string>
+    <string name="error_field_required">Aquet camp es necessari</string>
+    <string name="error_invalid_email">El compte és errònia</string>
+    <string name="usuario">Usuari</string>
+    <string name="contraseña">Contrasenya</string>
+    <string name="error_incorrect_password">La constrasenya és errònia</string>
+    <string name="recordar_usuario">Recorda usuari</string>
+    <string name="app_name">Biblioteca Vidal i Barraquer</string>
+    <string name="tv_titulo">Títol</string>
+    <string name="tv_autor">Autor</string>
+    <string name="tv_editorial">Editorial</string>
+    <string name="tv_devolver">Tornar</string>
+</resources>

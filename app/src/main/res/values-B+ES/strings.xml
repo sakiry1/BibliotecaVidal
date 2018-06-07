@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Biblioteca Vidal y Barraquer</string>
+
+    <string name="error_invalid_email">Este corrreo es inválido</string>
+    <string name="error_incorrect_password">Esta contraseña o correo es incorrecto</string>
+    <string name="error_field_required">Este campo es requerido</string>
+
+
+
+    <string name="borrar">Borrar</string>
+    <string name="si">Si</string>
+    <string name="no_prestamos">No tienes libros prestados</string>
+    <string name="recordarusuario">Recordar usuario</string>
+
+</resources>

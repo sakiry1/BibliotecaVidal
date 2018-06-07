@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Biblioteca Vidal y Barraquer</string>
+    <string name="contraseña">Password</string>
+    <string name="usuario">User</string>
+    <string name="recordar_usuario"> Remember user</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_incorrect_password">This password or email is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+
+    <string name="auth_sucess">Loading please wait....</string>
+    <string name="borrar">Delete</string>
+    <string name="si">Yes</string>
+    <string name="no_prestamos">No books borrowed</string>
+    <string name="recordarusuario">Remember user</string>
+    <string name="tv_titulo">Title</string>
+    <string name="tv_autor">Author</string>
+    <string name="tv_editorial">Publisher</string>
+    <string name="tv_devolver">Return</string>
+
+</resources>

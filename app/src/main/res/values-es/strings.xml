@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="recordar_usuario">Recordar usuario</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="auth_sucess">Comprobando, espere porfavor...</string>
+    <string name="tv_titulo">Título</string>
+    <string name="tv_autor">Autor</string>
+    <string name="tv_editorial">Editorial</string>
+    <string name="tv_devolver">Devolver</string>
+</resources>
